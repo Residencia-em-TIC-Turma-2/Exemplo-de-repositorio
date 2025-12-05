@@ -4,7 +4,7 @@
 
 | Nome | GitHub |
 | :--- | :--- |
-| Aluno 1 | [@usuario](https://github.com/usuario) |
+| Wallace Elpidio P. Cardoso | [@elpidioW](https://github.com/elpidioW) |
 | Aluno 2 | [@usuario](https://github.com/usuario) |
 | Aluno 3 | [@usuario](https://github.com/usuario) |
 | Aluno 4 | [@usuario](https://github.com/usuario) |
